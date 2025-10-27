@@ -10,8 +10,8 @@ Using statistical and visual analysis, the study identifies key variables—such
 - Compare life expectancy patterns between developed and developing countries.
 
 ## Methodology
-- **Data Source: Life Expectancy dataset containing global socio-economic and health metrics.
-- **Techniques Used:  
+- Data Source: Life Expectancy dataset containing global socio-economic and health metrics.
+- Techniques Used:  
   - Data cleaning and preprocessing (Pandas, NumPy)  
   - Exploratory Data Analysis (Seaborn, Plotly, Matplotlib)  
   - Correlation and hypothesis testing (t-test, Pearson correlation, Chi-square)  
